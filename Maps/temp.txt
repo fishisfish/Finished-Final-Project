@@ -1,0 +1,13 @@
+dimension x
+dimension y
+drop site x
+drop site y
+# of moving platforms
+x,y,w,h,dx,dy,direction,velocity,type,bounceVel
+# of checkpoints
+x,y
+
+directions:
+
+left/up = -1
+right/down = 1
